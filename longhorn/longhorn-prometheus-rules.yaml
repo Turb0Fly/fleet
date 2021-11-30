@@ -4,6 +4,7 @@ metadata:
   labels:
     prometheus: longhorn
     role: alert-rules
+  name: longhorn.rules
   namespace: cattle-monitoring-system
 spec:
   groups:
